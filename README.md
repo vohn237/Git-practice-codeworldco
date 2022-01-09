@@ -10,6 +10,10 @@ This project is designed for one to practice the Git/Github workflow here at Cod
 - [ ] Clone this repo
 - [ ] Create a branch `git checkout -b 'firstName-lastName'`
   - [ ] Add your name to the list of names below.
+  - [ ] Create a html file 
+  - [ ] write hello world in Header1
+  - [ ] create css file
+  - [ ] set header1 to color of your choice 
   - [ ] Run your usual git commands or adding/commiting and pushing **Be sure to push to your branch**
 - [ ] Create a Pull-Request to submit your work
   - [ ] Use your own mentee fork as the base (compare across forks, base-fork -> master).
@@ -17,4 +21,4 @@ This project is designed for one to practice the Git/Github workflow here at Cod
 
 ## ADD your name here
 
-- Toni Darden
+- Codeworldco
