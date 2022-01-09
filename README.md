@@ -11,9 +11,10 @@ This project is designed for one to practice the Git/Github workflow here at Cod
 - [ ] Create a branch `git checkout -b 'firstName-lastName'`
   - [ ] Add your name to the list of names below.
   - [ ] Create a html file 
-  - [ ] write hello world in Header1
+  - [ ] write hello world in the most important header tag 
+  - [ ] Write your name in a paragraph tag wrapped in a non semantic tag
   - [ ] create css file
-  - [ ] set header1 to color of your choice 
+  - [ ] set your texts to a color of your choice 
   - [ ] Run your usual git commands or adding/commiting and pushing **Be sure to push to your branch**
 - [ ] Create a Pull-Request to submit your work
   - [ ] Use your own mentee fork as the base (compare across forks, base-fork -> master).
