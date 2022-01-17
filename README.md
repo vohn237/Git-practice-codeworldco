@@ -21,6 +21,7 @@ This project is designed for one to practice the Git/Github workflow here at Cod
 - [ ] Create a Pull-Request to submit your work
   - [ ] Use your own mentee fork as the base (compare across forks, base-fork -> master).
 
-## Devohn Hall
+## Add your name below
 
 - Codeworldco
+- Devi
